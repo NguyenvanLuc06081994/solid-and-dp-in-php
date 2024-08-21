@@ -1,6 +1,6 @@
 <?php
 
-namespace DP\CommandBus;
+namespace CommandBus;
 
 class CreateProductCommandFactory
 {

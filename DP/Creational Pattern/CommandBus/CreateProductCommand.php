@@ -1,5 +1,5 @@
 <?php
-namespace DP\CommandBus;
+namespace CommandBus;
 class CreateProductCommand
 {
     private string $name;
